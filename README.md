@@ -1,2 +1,2 @@
 # issues
-Issue tracker for all not-classifiable issue
+Issue tracker for those not belonging to other repos.
